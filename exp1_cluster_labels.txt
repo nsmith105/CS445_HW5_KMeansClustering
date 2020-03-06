@@ -1,0 +1,11 @@
+Labels of each cluster:
+Cluster 0's label is 8
+Cluster 1's label is 0
+Cluster 2's label is 3
+Cluster 3's label is 7
+Cluster 4's label is 6
+Cluster 5's label is 9
+Cluster 6's label is 5
+Cluster 7's label is 4
+Cluster 8's label is 2
+Cluster 9's label is 1
