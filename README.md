@@ -1,4 +1,4 @@
-#K-Means Clustering
+K-Means Clustering
 ---
 This is an implemntation of the K-means clustering algorithm in Python on the Optdigit dataset
 
